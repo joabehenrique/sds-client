@@ -14,7 +14,7 @@ Before you begin, make sure you have met the following requirements:
 
 - You need the version `11` of `Java` on your machine.
 
-If you need installation instructions, [click here]("https://www.oracle.com/java/technologies/downloads/").
+If you need installation instructions, [click here](https://www.oracle.com/java/technologies/downloads/).
 
 ## 🚀 Installing SDS-Client
 
